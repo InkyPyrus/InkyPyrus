@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @InkyPyrus
-Altho I am not a coder I can dream and trying to figure this out as I go about. "We" refer to me. I believe it will become "We" as we go along 😜😉
+Altho I am not a coder I can dream and trying to figure this out as I go about. " us and We" refer to me currently01.11.23. I believe it will become "We" as we go along 😜😉
 
-I droppedt the below as a dump.. Im still completing relevant sections if you want to contact me best is regard@inkypyrus.com and give at least 2 days.. 
+I dropped the below as a dump.. Im still completing relevant sections, and hopefully something will come of the effort. If you want to contact me best is regard@inkypyrus.com and give at least 2 days.. 
 
 **So my dream is: **
 
@@ -35,13 +35,7 @@ We're eager to collaborate with:
 - Anyone who believes in democratizing the art marketplace
 
 ### Connect With Us 📫
-Are you interested in joining our quest to revolutionize the NFT space? Here's how you can reach us:
-
-- 📧 Email us at contact@inkypyramid.com
-- 💬 Join our Discord community [InkyPyramid Discord](#)
-- 🐦 Follow us on Twitter [@InkyPyrus](#)
-- 📺 Subscribe to our [YouTube Channel](#)
-- 📖 Read our latest updates on [Medium](#)
+Are you interested in joining our quest to revolutionize the NFT space? Here's how you can reach us: regard@inkypyrus.com
 
 ## Getting Started with InkyPyramid Development 🚀
 If you're looking to contribute, here's how you can get started:
